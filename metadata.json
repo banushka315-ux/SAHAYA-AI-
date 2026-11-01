@@ -1,0 +1,6 @@
+{
+  "name": "SAHAYA AI",
+  "description": "Your world, made easier. An intelligent multimodal AI personal assistant featuring conversational Chat, real-time Voice, and live Vision with hand landmark & gesture recognition.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
